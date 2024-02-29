@@ -1,0 +1,2 @@
+# startea
+A startea project
